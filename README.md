@@ -18,7 +18,7 @@ yarn add @elfalem/leaflet-curve
 
 ```
 import L from 'leaflet'
-import '@elfalem/leaflet-curve'
+import '@ringostarr80/leaflet-curve'
 ```
 
 Add a path that includes a Bézier curve and straight lines:

@@ -1,5 +1,5 @@
 {
-  "name": "@elfalem/leaflet-curve",
+  "name": "@ringostarr80/leaflet-curve",
   "version": "0.8.0",
   "description": "A Leaflet plugin for drawing Bézier curves and other complex shapes.",
   "main": "dist/leaflet.curve.js",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elfalem/Leaflet.curve.git"
+    "url": "git+https://github.com/ringostarr80/Leaflet.curve.git"
   },
   "keywords": [
     "leaflet",
@@ -20,20 +20,20 @@
     "curve",
     "SVG"
   ],
-  "author": "elfalem",
+  "author": "ringostarr80",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elfalem/Leaflet.curve/issues"
+    "url": "https://github.com/ringostarr80/Leaflet.curve/issues"
   },
-  "homepage": "https://github.com/elfalem/Leaflet.curve#readme",
+  "homepage": "https://github.com/ringostarr80/Leaflet.curve#readme",
   "devDependencies": {
-    "webpack": "^4.17.2",
-    "webpack-cli": "^3.1.2"
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
   },
   "peerDependencies": {
-    "leaflet": "^1.1.0"
+    "leaflet": "^1.7.1"
   },
   "optionalDependencies": {
-    "@tweenjs/tween.js": "^17.2.0"
+    "@tweenjs/tween.js": "^18.6.4"
   }
 }
