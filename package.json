@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/ringostarr80/Leaflet.curve#readme",
   "devDependencies": {
-    "webpack": "^5.38.1",
+    "webpack": "^5.94.0",
     "webpack-cli": "^4.7.2"
   },
   "peerDependencies": {
